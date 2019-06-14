@@ -50,4 +50,4 @@ matrix: communication cost
 
 使用test.txt的运行结果如下所示
 
-![image](https://github.com/hunterlxt/ASAP-ALAP-ListScheduling/raw/master/screenshots/result.PNG)
+![image](ASAP-ALAP-ListScheduling/screenshots/result.PNG)
